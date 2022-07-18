@@ -15,6 +15,9 @@ The links to download the raw jsons for OCR.
 
 - [ test set OCR ](https://cvcuab-my.sharepoint.com/:u:/g/personal/abiten_cvc_uab_cat/EcM_pcapGJdHkctMuUtiwocBfPLWorkplghgPeONtDL2Hw?e=jbeEzz)
 
+NOTE: I had to replace the COCO-Text images from the original dataset. Since STVQA has the images from COCO-Text as resized.
+You can check the notebook for more detail.
+
 ### TextVQA OCR
 
 The links to download the raw jsons for OCR.
